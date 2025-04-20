@@ -1,0 +1,19 @@
+# Build output
+/bin/
+/obj/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+
+# VS 2003/2005/2008 project user files
+*.csproj.user
+
+# Temp files
+~$*
+*.tmp
+
+# Resharper (if ever used)
+/_ReSharper*/
